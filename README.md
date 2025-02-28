@@ -1,2 +1,2 @@
 # myLearning
-This repository created for my code learning by me.
+This repository created for my code learning by me
